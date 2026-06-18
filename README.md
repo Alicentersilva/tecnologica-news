@@ -29,3 +29,8 @@ Aplicar conceitos fundamentais de desenvolvimento web, incluindo estruturação 
 ## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos de HTML semântico, links de navegação, estilização com CSS, organização de arquivos e construção de layouts para páginas web.
+
+Demonstração
+
+Acesse o portfólio:
+https://alicentersilva.github.io/tecnologica-news/
