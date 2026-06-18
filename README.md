@@ -32,5 +32,5 @@ Durante o desenvolvimento deste projeto foram praticados conceitos de HTML semâ
 
 Demonstração
 
-Acesse o portfólio:
+Acesse:
 https://alicentersilva.github.io/tecnologica-news/
